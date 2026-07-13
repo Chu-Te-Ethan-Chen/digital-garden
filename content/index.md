@@ -1,5 +1,5 @@
 ---
-title: Welcome to Ethan Chu-Te Chen's digital garden
+title: Welcome to Ethan Chen's digital garden
 ---
 
 This is a blank Quartz installation.
